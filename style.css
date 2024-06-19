@@ -10,3 +10,30 @@
  License: GPL-2.0+
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
+
+/* AL 01/01/2021 css to make TEC widget visible starts here----------------------------------------------------------- */
+.tribe-events-widget.tribe-common .tribe-common-h5, .tribe-events-widget.tribe-common .tribe-common-h6 {
+    color: #ffffff;
+}
+.tribe-events-widget.tribe-common  {
+    color: #ffffff;
+}
+.tribe-events-widget.tribe-common .tribe-common-h2 {
+    color: #ffffff;
+}
+.tribe-events-widget.tribe-common .tribe-events-widget-events-list__event-date-tag-month {
+    color: #ffffff;
+}
+.tribe-events-widget.tribe-common .tribe-common-b2 {
+    color: #ffffff;
+}
+.tribe-events-widget.tribe-common a, .tribe-events-widget.tribe-common a:active, .tribe-events-widget.tribe-common a:focus, .tribe-events-widget.tribe-common a:hover, .tribe-events-widget.tribe-common a:visited {
+    color: #24890d;
+    border-bottom-color: #000000;
+}
+.tribe-events-widget .tribe-events-widget-events-list__event-date-tag-datetime {
+    text-align:left !important;
+}
+.tribe-events-widget .tribe-events-widget-events-list__event-date-tag {
+    width: 40px !important;
+}
